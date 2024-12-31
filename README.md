@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating over arrays. The Bug.java file contains the erroneous code. The BugSolution.java file provides a corrected version. This type of error is frequent and can cause unexpected program behavior.  Understanding array indexing is crucial in avoiding such issues.
